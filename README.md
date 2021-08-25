@@ -11,28 +11,29 @@
  
  **Docente:** Ing. Darwin Alulema.
  
- **Tema:** Capitulo 11 y Capitulo 12
+ **Tema:** Capitulo 13 y Capitulo 14
  
  ## 1. OBJETIVO GENERAL
 
+ ## 1.2 OBJETIVOS ESPECÍFICOS
+ 
+ ## 2. MARCO TEÓRICO
+ 
+ ## 3. EXPLICACION Y RESOLUCION DE EJERCICIOS O PROBLEMAS 
+ 
+ **CAPITULO 13**
+ 
+ 
+ **CAPITULO 14**
 
 
 
+ ## 4. VIDEO
+
+ ## 5. CONCLUSIONES
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+ ## 6. BIBLIOGRAFIA
 
 
 
