@@ -46,8 +46,9 @@
  ## 4. VIDEO
 
  ## 5. CONCLUSIONES
-
-
+- Se conocio el origen y la forma en la que se analiza la inductancia en circuitos complejos mediante teoremas aprendidos previamente.
+- Se concluyo mediante los investiga que el electromangenisto dio origen a la inductividad por ende el campo magnetico se opone a corriente por lo que da un transitorio.
+- El voltaje inicial en transitorios desenergizantes es negativa, durante el transitorio aumenta hasta 0V.
  ## 6. BIBLIOGRAFIA
 
 
