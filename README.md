@@ -27,6 +27,10 @@
  
  **CAPITULO 14**
  
+ ![trans](https://user-images.githubusercontent.com/84586968/130715406-1fba49ab-d4fe-4e8a-8258-63d748453460.png)
+ 
+ ![cre](https://user-images.githubusercontent.com/84586968/130715412-cad3c7a2-9ec9-4a18-a4c7-9108b36cdb10.png)
+ 
  ## 3. EXPLICACION Y RESOLUCION DE EJERCICIOS O PROBLEMAS 
  
  **CAPITULO 13**
