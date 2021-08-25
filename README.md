@@ -26,6 +26,7 @@
  ![png (5)](https://user-images.githubusercontent.com/85137954/130724723-e4489a1e-2ae7-4e6b-912e-535460d72927.png)
 ![png (6)](https://user-images.githubusercontent.com/85137954/130724733-d9e69400-0cd5-4d9a-969d-aa15f607dc84.png)
 
+![WhatsApp Image 2021-08-25 at 07 38 07](https://user-images.githubusercontent.com/85137954/130791916-9e3394aa-eba9-47c0-ad1f-02c266d81cdd.jpeg)
  
  **CAPITULO 14**
  
