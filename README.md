@@ -34,6 +34,8 @@
  
  ![cre](https://user-images.githubusercontent.com/84586968/130715412-cad3c7a2-9ec9-4a18-a4c7-9108b36cdb10.png)
  
+ ![png (17)](https://user-images.githubusercontent.com/85137954/130793865-d23200ea-652c-4b07-b488-71debd6b5421.png)
+ 
  ## 3. EXPLICACION Y RESOLUCION DE EJERCICIOS O PROBLEMAS 
  
  **CAPITULO 13**
