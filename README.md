@@ -22,6 +22,10 @@
  - Comprender el significado de transitorio y su estudio dentro de amnalisis de circuitos
  
  ## 2. MARCO TEÓRICO
+ **CAPITULO 13**
+ 
+ 
+ **CAPITULO 14**
  
  ## 3. EXPLICACION Y RESOLUCION DE EJERCICIOS O PROBLEMAS 
  
