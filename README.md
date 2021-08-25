@@ -54,9 +54,18 @@
 
 ![image](https://user-images.githubusercontent.com/85137954/130719959-eda28434-4010-454d-8b55-c541a15e1060.png)
 
+![WhatsApp Image 2021-08-25 at 07 09 30](https://user-images.githubusercontent.com/85137954/130788245-696c51f2-5f7c-4fd7-98f0-7a17ee1aa6ac.jpeg)
 
+![WhatsApp Image 2021-08-25 at 07 09 46](https://user-images.githubusercontent.com/85137954/130788262-329c5690-f99a-42f8-b75b-54c0896d67e9.jpeg)
 
- 
+![WhatsApp Image 2021-08-25 at 07 10 10](https://user-images.githubusercontent.com/85137954/130788270-34ede027-5766-4268-a423-3cea68ac68ee.jpeg)
+
+![WhatsApp Image 2021-08-25 at 07 10 27](https://user-images.githubusercontent.com/85137954/130788282-3cdde987-3870-4c44-baa3-801077f54247.jpeg)
+
+![WhatsApp Image 2021-08-25 at 07 11 06](https://user-images.githubusercontent.com/85137954/130788295-a02a9b67-f7e7-45c8-979a-ecd87bcd4706.jpeg)
+
+![WhatsApp Image 2021-08-25 at 07 11 23](https://user-images.githubusercontent.com/85137954/130788324-099ac517-6d94-44f4-994a-cdcd97aa0f4b.jpeg)
+
  **CAPITULO 14**
 
 ![T_1](https://user-images.githubusercontent.com/84586968/130708680-f9ad3d2b-751f-4ace-a4a5-c891a5464a78.PNG)
