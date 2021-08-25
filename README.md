@@ -1,4 +1,4 @@
-# InformeTarea7
+# InformeTarea 7
 **Integrantes:**
 - Jordy Coyaguillo
 - Jean Jacome
