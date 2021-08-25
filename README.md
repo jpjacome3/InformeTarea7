@@ -73,6 +73,7 @@
 
 
  ## 4. VIDEO
+ https://youtu.be/-Cf-sGWryD0
 
  ## 5. CONCLUSIONES
 - Se conocio el origen y la forma en la que se analiza la inductancia en circuitos complejos mediante teoremas aprendidos previamente.
