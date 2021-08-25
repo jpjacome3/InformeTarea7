@@ -55,6 +55,12 @@
 - El voltaje inicial en transitorios desenergizantes es negativa, durante el transitorio aumenta hasta 0V.
  ## 6. BIBLIOGRAFIA
 
+Bertha, M. (10 de diciembre de 2014). Scielo. Obtenido de http://scielo.sld.cu/scielo.php?script=sci_arttext&pid=S1815-59012014000300014
+
+Electronica Unicrom. (27 de Junio de 2020). Obtenido de https://unicrom.com/bobinas-o-inductores-en-serie-y-paralelo/
+
+Reyes, C. (4 de Junio de 2020). Temas de calculo 2. Obtenido de https://temasdecalculo2.wordpress.com/2020/06/04/inductores-circuitos-electricos/
+
 
 
 
